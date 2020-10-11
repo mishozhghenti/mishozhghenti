@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<br/>
-<br/>
-
-
-[![Linkedin: mikheilzhghenti](https://img.shields.io/badge/-mikheilzhghenti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikheilzhghenti/)](https://www.linkedin.com/in/mikheilzhghenti/)
-[![GitHub mishozhghenti](https://img.shields.io/github/followers/mishozhghenti?label=follow&style=social)](https://github.com/mishozhghenti)
-
-
 **Languages and Tools:**  
 <code><img height="20" title="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></code>
 <code><img height="20" title="Spring Framework" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
@@ -51,3 +42,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/mishozhghenti">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishozhghenti&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+<br/>
+<br/>
+
+[![Linkedin: mikheilzhghenti](https://img.shields.io/badge/-mikheilzhghenti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikheilzhghenti/)](https://www.linkedin.com/in/mikheilzhghenti/)
+[![GitHub mishozhghenti](https://img.shields.io/github/followers/mishozhghenti?label=follow&style=social)](https://github.com/mishozhghenti)
+
+
