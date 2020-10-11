@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages and Tools:**  
+### Languages and Tools:<br>
 <code><img height="20" title="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></code>
 <code><img height="20" title="Spring Framework" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
 <code><img height="20" title="Hibernate" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png"></code>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <code><img height="20" title="Elastic Search" src="https://cdn.iconscout.com/icon/free/png-512/elasticsearch-226094.png"></code>
 <code><img height="20" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>    
 
-
+<br/>
 <a href="https://github.com/mishozhghenti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishozhghenti&theme=light&hide_langs_below=1" />
 </a>
