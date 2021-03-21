@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <code><img height="20" title="Tensorflow" src="https://iconape.com/wp-content/files/cy/352956/png/tensorflow-logo.png"></code>    
 <code><img height="20" title="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
 <code><img height="20" title="Elastic Search" src="https://cdn.iconscout.com/icon/free/png-512/elasticsearch-226094.png"></code>
-<code><img height="20" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>    
-<code><img height="20" title="GraphQL" src="https://davidwalsh.name/demo/graphql-intro/graphql.png"></code>    
-
+<code><img height="20" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" title="GraphQL" src="https://davidwalsh.name/demo/graphql-intro/graphql.png"></code>
 <br/>
 <a href="https://github.com/mishozhghenti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishozhghenti&theme=light&hide_langs_below=1" />
